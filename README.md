@@ -1,5 +1,6 @@
 
-# Desafio: Testes de API com RestAssured
+# Desafio: Testes Unitários
+
 
 
 
@@ -122,9 +123,7 @@ A aplicação poderá evoluir com os seguintes aprimoramentos:
   <p ></p>
 
 <h3>Maior Desafio Superado: </h3>
- <p></p>
 
-<h3>Maior Aprendizado:</h3>
 <p>Utilizar a metodologia TDD e aplicar os padrões de projeto apropriados.</p>
 
 
