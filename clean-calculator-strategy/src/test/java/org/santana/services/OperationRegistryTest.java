@@ -28,7 +28,7 @@ public class OperationRegistryTest {
         registry = new OperationRegistry();
     }
 
-    // ✅ Casos de sucesso
+    // Casos de sucesso
     @Test
     @DisplayName("CT-001 | Addition: 2.5 + 3.1 = 5.6")
     void testAddition() {
